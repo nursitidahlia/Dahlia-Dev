@@ -15,5 +15,5 @@ Passionate about ensuring software excellence and managing project lifecycles. I
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](YOUR_LINKEDIN_URL)
+- [LinkedIn](https://www.linkedin.com/in/nursitidahlia/)
 - [Portfolio](YOUR_PORTFOLIO_URL)
